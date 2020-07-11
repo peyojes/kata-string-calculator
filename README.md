@@ -1,1 +1,1 @@
-# kata-string-calculator
+#string-calculator-kata
